@@ -1230,5 +1230,7 @@ form .spacer+.spacer {
 
 
 
-
 /* by doingstuffcarl */
+
+http://archive.is/sOgZW
+https://archive.is/mfzRq
